@@ -51,5 +51,5 @@ def highest_val_lcs(input_file):
 
     ## input_file = "input1.txt"           
 
-input_file = "tests/input6.txt"
+input_file = "tests/input10.txt"
 highest_val_lcs(input_file)
