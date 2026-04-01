@@ -10,9 +10,9 @@ UFID: 86143370
 - Clone the repository into your desired Python supported IDE.
 - No external dependencies
 
-## Running the Program
+## Running the Program:
 - Run dynamic.py and modify the filename variable inside main() to reference the input files that are inside the test/ file.
-- For each input(1-10).txt file in the testfiles/, there is a corresponding file input(1-10).out with the expected output in the tests/ folder. The output that is printed after running the program should match the contents of the corresponding .out file.
+- For each input(1-10).txt file in the tests/, there is a corresponding file input(1-10).out with the expected output in the tests/ folder. The output that is printed after running the program should match the contents of the corresponding .out file.
 
 ## Assumptions:
 - Input file has the following format:
