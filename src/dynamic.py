@@ -53,7 +53,7 @@ def highest_val_lcs(input_file):
 
 def main():
     # change input file to test different cases
-    input_file = "tests/runtime10.txt"
+    input_file = "tests/input10.txt"
     # start = time.time()
     highest_val_lcs(input_file)
     # end = time.time()
